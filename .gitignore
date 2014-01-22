@@ -1,3 +1,13 @@
 *.ncb
 *.suo
 *.vcproj.*.user
+apr-util/build/
+apr-util/crypto/x64/
+apr-util/dbd/x64/
+apr-util/dbm/x64/
+apr-util/ldap/x64/
+apr-util/x64/
+apr-util/xml/expat/lib/x64/
+apr/Release/
+apr/vc90.idb
+apr/x64/
